@@ -643,6 +643,7 @@
     line-height: 24px;
     letter-spacing: 3.38px;
     margin-bottom: 60px;
+    justify-content: flex-start;
   }
   img{
     width: 456px;
