@@ -194,7 +194,7 @@
 .planet-container-img{
     display: flex;
     justify-content: center;
-    animation: spin 15s linear;
+    animation: spin 4s linear;
 }
 @keyframes spin{
   0%{
